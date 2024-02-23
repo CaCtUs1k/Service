@@ -1,0 +1,20 @@
+{
+    "_comment": "name of the directory with the finished files",
+    "PROCESSED_FILES_DIR": "csv",
+
+     "_comment": "name of the directory with files before parsing Facebook",
+    "SEMIFINISHED_FILES_DIR": "semi-finished",
+
+    "_comment":   "name of the file with data for parsing",
+    "RAW_DATA_PATH": "USA Services.xlsx",
+
+    "_comment":   "additional parsing of emails on Facebook (boolean)",
+    "ADDITIONAL_FACEBOOK_PARSING": "True",
+
+    "_comment":   "clear the directory with half-finished files before starting the program (boolean)",
+    "CLEAN_SEMIFINISHED_FILES_DIR": "True",
+
+    "_comment":   "clear the directory with finished files before starting the program (boolean)",
+    "CLEAN_PROCESSED_FILES_DIR": "False",
+
+}
