@@ -15,6 +15,6 @@
     "CLEAN_SEMIFINISHED_FILES_DIR": "True",
 
     "_comment":   "clear the directory with finished files before starting the program (boolean)",
-    "CLEAN_PROCESSED_FILES_DIR": "False",
+    "CLEAN_PROCESSED_FILES_DIR": "False"
 
 }
